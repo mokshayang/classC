@@ -28,6 +28,7 @@ aside{
     width: 215px;
     height: 100%;
 }
+
 .menu{
     width: 215px;
     height: calc(100% - 25px);
@@ -58,7 +59,7 @@ aside{
 .update{
     width: 215px;
     height: 25px;
-    line-height: 24;
+    line-height: 24px;
 }
 section{
     width: calc(100% - 215px);
