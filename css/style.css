@@ -51,10 +51,10 @@ aside{
     margin: 20px auto;
     border-radius: 10px;
     box-shadow: 0 1px 1px 1px #666;
-    background: url("../../imange/menu1.png");
+    background: url("../imange/menu1.png");
 }
 .menu a:hover{
-    background: url(../../imange/menu1.png);
+    background: url(../imange/menu2.png);
 }
 .update{
     width: 215px;
